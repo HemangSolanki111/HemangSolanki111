@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hemang solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemang solanki" height="30" width="40" /></a>
-<a href="https://fb.com/hemang solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hemang solanki" height="30" width="40" /></a>
-<a href="https://instagram.com/hemang_1320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemang_1320" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hemang solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hemang solanki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hemang-solanki-621143296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemang solanki" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hemang.solanki.961?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hemang solanki" height="30" width="40" /></a>
+<a href="https://instagram.com/hemang_1320?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemang_1320" height="30" width="40" /></a>
+<a href="https://youtube.com/@HJSVlogss?si=RhWea90-uGA3Amib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hemang solanki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
